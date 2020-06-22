@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "7e4116b4-2cb5-466c-8412-6ef738619ad5",
+    "name": "Ninnos",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d6240600-1ff2-4c01-b80a-08185613a075",
+    "name": "Im_not_single",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "71539990-5192-4d00-ab15-cbc3250903d3",
+    "name": "Mikkstar12",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
